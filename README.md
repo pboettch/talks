@@ -2,6 +2,12 @@
 
 This repo contains the materials for talks I gave on different occasions.
 
+## Meetup Paris Embedded #14
+
+On 2024-10-24 I talked about _C++ meta-programming in an embedded world_ at the Meetup Paris Embedded "Retour du meetup Paris Embedded"
+which took place at EPITA, Paris, France.
+[See the event on meetup.com]https://www.meetup.com/parisembedded/events/303347199)
+
 ## Meetup Paris Embedded #12
 
 On 2019-03-28 I talked about _Remote-update adventures - RAUC, Yocto, Barebox_ at the Meetup Paris Embedded #12
